@@ -1,0 +1,32 @@
+_repo: Grace-Harlowe-s-Overland-Riders-Among-the-Kentucky-Mountaineers_20405
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 20405-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chase, Josephine
+    aliases:
+    - Flower, Jessie Graham
+    - Thompson, Ames
+    - Gordon, Grace
+    - Lester, Pauline
+    deathdate: 1931
+    gutenberg_agent_id: '1598'
+    url: http://www.gutenberg.org/2009/agents/1598
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2007-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20405'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kentucky -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcc 'PZ'
+title: Grace Harlowe's Overland Riders Among the Kentucky Mountaineers
+url: http://www.gutenberg.org/ebooks/20405
